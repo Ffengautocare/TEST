@@ -1,2 +1,2 @@
 # TEST
-Practice Repository
+Practice Repository for git commands demo
